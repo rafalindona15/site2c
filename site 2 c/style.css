@@ -1,0 +1,19 @@
+body{
+    background-color: #ffb6f5;
+}
+
+.primeiraparte{
+background-color: #ffe0fb;  
+}
+
+.foto{
+    width: 200px;
+ }
+
+ .todososnossosestudantes{
+     display: flex;
+ }
+
+ .fotos{
+    width:500px;
+ }
